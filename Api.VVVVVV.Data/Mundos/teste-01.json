@@ -1,0 +1,398 @@
+{
+    "titulo": "Mundo 01",
+    "idFaseInicial": "001",
+    "fases": [
+        {
+            "id": "001",
+            "partes": [
+                {
+                    "id": "e9fcd486945b7592c27fe77a25628ab3",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 1000,
+                    "topo": 800,
+                    "largura": 500,
+                    "altura": 700
+                },
+                {
+                    "id": "e8667362dc31753071bc5d68398ff7bc",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 3100,
+                    "topo": 200,
+                    "largura": 300,
+                    "altura": 200
+                },
+                {
+                    "id": "099c1f80c02a017ee12da3ab6ea10572",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 3500,
+                    "topo": 0,
+                    "largura": 100,
+                    "altura": 400
+                },
+                {
+                    "id": "c98a5b4bb2207261ffe328def45d7270",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 3400,
+                    "topo": 100,
+                    "largura": 100,
+                    "altura": 300
+                },
+                {
+                    "id": "c98986220dec48e3ce4cc18b9d5c6ccf",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 2800,
+                    "topo": 200,
+                    "largura": 300,
+                    "altura": 400
+                },
+                {
+                    "id": "7f6f696225c54578f91a840e577a5032",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 2100,
+                    "topo": 0,
+                    "largura": 200,
+                    "altura": 1500
+                },
+                {
+                    "id": "494f6dabc3ea7f5c52f98f47adbeab1a",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 2000,
+                    "topo": 400,
+                    "largura": 100,
+                    "altura": 1100
+                },
+                {
+                    "id": "e13b19de88125ba7dc28620fac4bca83",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 1900,
+                    "topo": 500,
+                    "largura": 100,
+                    "altura": 1000
+                },
+                {
+                    "id": "e7e9e8664cfc7aba07d7ddf7ca44c2c2",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 1500,
+                    "topo": 600,
+                    "largura": 400,
+                    "altura": 900
+                },
+                {
+                    "id": "fceba676a6c21c06cbbacda403c65932",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 900,
+                    "topo": 600,
+                    "largura": 100,
+                    "altura": 800
+                },
+                {
+                    "id": "d62e982c5007abb4e00aaecd20b45ae2",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 800,
+                    "topo": 600,
+                    "largura": 100,
+                    "altura": 700
+                },
+                {
+                    "id": "764bb05abc39e5794d2f819bedf0b192",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 700,
+                    "topo": 600,
+                    "largura": 100,
+                    "altura": 600
+                },
+                {
+                    "id": "be308fa6ec743e52615aff357e5bee18",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 600,
+                    "topo": 600,
+                    "largura": 100,
+                    "altura": 500
+                },
+                {
+                    "id": "625d748e9363d0a4e31c3c365fa0a7d6",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 400,
+                    "topo": 400,
+                    "largura": 100,
+                    "altura": 600
+                },
+                {
+                    "id": "a287b1d1e6e658093fabdbeb2cf74bbd",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 500,
+                    "topo": 500,
+                    "largura": 100,
+                    "altura": 500
+                },
+                {
+                    "id": "ba2ca60b412a9acc655d82c06c36c908",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 0,
+                    "topo": 0,
+                    "largura": 400,
+                    "altura": 1000
+                },
+                {
+                    "id": "1435e015025347866d44f00466838dbd",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 0,
+                    "topo": 2000,
+                    "largura": 1300,
+                    "altura": 200
+                },
+                {
+                    "id": "0b4ef94ffd06f98a86a96ae13c4c492a",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 1800,
+                    "topo": 2000,
+                    "largura": 1800,
+                    "altura": 200
+                },
+                {
+                    "id": "bed1d885ac872c5ee4f99d78ebd799b1",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 2300,
+                    "topo": 900,
+                    "largura": 100,
+                    "altura": 400
+                },
+                {
+                    "id": "ce5594e54bdefb518c349bfb194294c0",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 2400,
+                    "topo": 1000,
+                    "largura": 100,
+                    "altura": 300
+                },
+                {
+                    "id": "eec417d5a32a6bbdbeada61e1d814e79",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 2500,
+                    "topo": 1100,
+                    "largura": 300,
+                    "altura": 200
+                },
+                {
+                    "id": "8b7f22a9020a9941694855f19ca75ae3",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 2800,
+                    "topo": 1100,
+                    "largura": 300,
+                    "altura": 400
+                },
+                {
+                    "id": "9bdc16e52623ab956f2cee2b68d9dee4",
+                    "tipo": "chao",
+                    "modelo": "comum",
+                    "esquerda": 3600,
+                    "topo": 0,
+                    "largura": 400,
+                    "altura": 2200
+                },
+                {
+                    "id": "f36e614e9329c130a3a959c271f0046e",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1000,
+                    "topo": 700,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "e01d1a4684210dff810f16c04b5bb6e1",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1100,
+                    "topo": 700,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "5360d455220d1aa76e38ce09101a7125",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1200,
+                    "topo": 700,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "998ee02fa0796f5f53892b82d6776eb6",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1300,
+                    "topo": 700,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "c7110b3f6abc307f169e99853a4ac08a",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1400,
+                    "topo": 700,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "05e81923e38d314e4af470a5ca28fcea",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 2300,
+                    "topo": 1300,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "94784e994872bab5e569ca41dc33de16",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 2400,
+                    "topo": 1300,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "2873523575acf241c7cf95e33e389fbf",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 2500,
+                    "topo": 1300,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "0d5f04e69b8d9cac8706f434405abdeb",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 2600,
+                    "topo": 1300,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "16c710ac8f969cd5832905ba22013630",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 2700,
+                    "topo": 1300,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "03d95f279adb0e840365c0bf38520563",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1300,
+                    "topo": 2100,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "c136868924dc644493220e7877bf8c70",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1400,
+                    "topo": 2100,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "70f1899049939b1c0f568a778d534ba4",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1500,
+                    "topo": 2100,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "de9ab76112aa8772ab47abeeebe72f36",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1600,
+                    "topo": 2100,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "fa1f1768511b9881c54c52e0f2d910d5",
+                    "tipo": "espinho",
+                    "modelo": "cima",
+                    "esquerda": 1700,
+                    "topo": 2100,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "2596ff13fe783e26fad3bc89bef71012",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 3100,
+                    "topo": 400,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "9749aa49e1a6092bbc33f88d44019c49",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 3200,
+                    "topo": 400,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "806c159353d112abd01ddc513ffec475",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 3300,
+                    "topo": 400,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "8a170cd275dd069873234aea808d34d2",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 3400,
+                    "topo": 400,
+                    "largura": 100,
+                    "altura": 100
+                },
+                {
+                    "id": "9f523fc39a20a1fbff842361e288b1b6",
+                    "tipo": "espinho",
+                    "modelo": "baixo",
+                    "esquerda": 3500,
+                    "topo": 400,
+                    "largura": 100,
+                    "altura": 100
+                }
+            ]
+        }
+    ]
+}

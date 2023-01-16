@@ -13,16 +13,36 @@ namespace Api.VVVVVV.Controllers
 	[Route("[controller]")]
 	public class MundosController : ControllerBase
 	{
+		private readonly string caminhoPastaMundos = $@"C:\Users\Usuario\Desktop\Pessoal\JS Projects\Api.VVVVVV\Api.VVVVVV.Data\Mundos\";
+
 		public MundosController()
 		{
-			
+
+		}
+
+		[HttpGet]
+		[Route("")]
+		public List<string> Listar()
+		{
+			try
+			{
+				return System.IO.Directory.GetFiles(caminhoPastaMundos).ToList().Select(caminhoArquivo => {
+					return caminhoArquivo.Replace(caminhoPastaMundos, "").Replace(".json", "");
+				}).ToList();
+			}
+			catch (Exception e)
+			{
+
+				return new List<string>();
+			}
+
 		}
 
 		[HttpGet]
 		[Route("{nomeMundo}")]
 		public string Retornar(string nomeMundo)
 		{
-			string caminhoMundo = $@"C:\Users\Usuario\Desktop\Pessoal\JS Projects\Api.VVVVVV\Api.VVVVVV.Data\Mundos\{nomeMundo}.json";
+			string caminhoMundo = $@"{caminhoPastaMundos}{nomeMundo}.json";
 
 			try
 			{
@@ -40,7 +60,7 @@ namespace Api.VVVVVV.Controllers
 		[Route("{nomeMundo}")]
 		public bool Salvar(string nomeMundo, [FromBody] MundoModel mundo)
 		{
-			string caminhoMundo = $@"C:\Users\Usuario\Desktop\Pessoal\JS Projects\Api.VVVVVV\Api.VVVVVV.Data\Mundos\{nomeMundo}.json";
+			string caminhoMundo = $@"{caminhoPastaMundos}{nomeMundo}.json";
 
 			try
 			{
